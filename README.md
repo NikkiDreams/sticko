@@ -1,15 +1,17 @@
 Sticko - A free Ghost theme :)
 =======
+Original theme designed and coded by @damianmuti
+[sticko](http://sticko.damianmuti.com/)
+[Sticko Github](https://github.com/damianmuti/sticko)
 
-
-![screen](http://damianmuti.com/downloads/screen.jpg)
+![screen](http://nichole-shannon.us/assets/github/Sticko.png)
+![screen](http://nichole-shannon.us/assets/github/Sticko_nav.png)
 
 ## About this theme
 
-I've been working as a UI/UX Dev and Art Director for the last 12 years. I've also been using the web as a huge source of information for my personal and professional career.
-[sticko](http://sticko.damianmuti.com/) is my own way to give back something i love and live for to the internet community: a clean, modern, **responsive** and **free** theme for the emerging -and absolutely amazing- blogging platform called [Ghost](http://ghost.org).
+I descided on forking this theme because it simple and a clean, modern, **responsive** and **free** theme for the emerging -and absolutely amazing- blogging platform called [Ghost](http://ghost.org).
 
-I really hope you like it and feel free to use this theme for whatever purpose you want.
+I 
 
 <hr>
 
