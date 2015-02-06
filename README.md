@@ -1,17 +1,17 @@
-Sticko - A free Ghost theme :)
+Sticko - A free Professional Portfolio and Resume Ghost theme :)
 =======
 Original theme designed and coded by @damianmuti
 [sticko](http://sticko.damianmuti.com/)
 [Sticko Github](https://github.com/damianmuti/sticko)
 
-![screen](http://nichole-shannon.us/assets/github/Sticko.png)
-![screen](http://nichole-shannon.us/assets/github/Sticko_nav.png)
+![screen](http://nichole-shannon.us/content/images/assets/images/github/Sticko.png)
+![screen](http://nichole-shannon.us/content/images/assets/images/github/Sticko_nav.png)
 
 ## About this theme
 
-I descided on forking this theme because it simple and a clean, modern, **responsive** and **free** theme for the emerging -and absolutely amazing- blogging platform called [Ghost](http://ghost.org).
+I descided on forking this theme because it simple and a clean, modern, **responsive** and a **free** theme for the emerging -and absolutely amazing- blogging platform called [Ghost](http://ghost.org). If you don't know Ghost it is a Node.js blogging application that is very light and even runs well on hosted solutions running cPanel and Softaculous.
 
-I 
+I will be updating and adding my own touches to this theme for my own use. But I hope someone eles out there will also find it a great theme to expand on as well.
 
 <hr>
 
@@ -63,9 +63,11 @@ Open the file `footer.hbs` located in `/partials/` folder.
 
 <hr>
 
-### Get in touch
+### Get in touch with the contributors
 
-If by any reason you need/want to get in touch with me, feel free to [drop me an email](mailto:hi@damianmuti.com) or find me on [Facebook](http://www.facebook.com/damianmuti) and [Twitter](http://www.twitter.com/damianmuti).
+@NikkiDreams: [LinkedIn](https://www.linkedin.com/in/nikkidreams), [Twitter](https://twitter.com/NikkiDreams)
+
+@damianmuti: [drop me an email](mailto:hi@damianmuti.com) or find me on [Facebook](http://www.facebook.com/damianmuti) and [Twitter](http://www.twitter.com/damianmuti).
 
 ### Licence
 [CreativeCommons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/)
